@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+.vscode
+bin
+node_modules
+pkg
+target
+**/*.rs.bk
+*.log
+*.wasm
